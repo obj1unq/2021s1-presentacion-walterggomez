@@ -11,7 +11,7 @@ Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios
 No es mi primera experiancia universitaria, me faltaron 12 materias para recibirme en la UNLP de Ing Electronico, tube que dejar por incompatibilidad entre los horarios laborales (maldito 2001) y los horarios de cursadas. Pero bueno hay cosas peores que dejar una carrera universitaria y mientras uno tenga las ganas de progresar le va a poner garra, para lograr llegar al final del objetivo.
 En la UNQ estoy desde el segundo semestre del 2017, inscripto en la Tecnicatura en Programacion y avanzando a paso lento pero firme
 Para seguir con la polemica de la  menta granizada, no es uno de mis gusto preferidos, pero no me disgusta o sea un voto positivo (hay que hacer una encuesta generalazida y ver el % de adeptos.
-bueno voy terminando porque sino se hace muy largo, y espero que todos tengan una excelente cursa *
+bueno voy terminando porque sino se hace muy largo, y espero que todos tengan una excelente cursada *
 
 
 - [ ] **Mirá la presentación de tus compas**. Una vez que terminaste, andá al [Github del curso](https://github.com/obj1unq) y mirá las presentaciones de tus compas. Haceles comentarios en la parte de _Issues_, despus volvé y respondé los issues de tu presentación.
